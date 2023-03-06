@@ -15,7 +15,7 @@ Click on a highlighted circle, speed will be increased be getting your score.
 ## Screenshot
 
 <img
-  src=".game_image.png"
+  src="./game_image.png"
   alt="game_image"
   title="Game Image "
   style="display: inline-block; margin: 0 auto; max-width: 300px">
